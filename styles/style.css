@@ -1,9 +1,9 @@
 *{
-    box-sizing: border-box; /*Para que haga caso a margin y padding?*/
+    box-sizing: border-box; /*para que sirve?*/
 }
 body{
-    margin: 0;
-    padding: 0;
+    margin: 0; /*espacio entre el objeto y los demas elementos*/
+    padding: 0; /*espacio del contenido del container con el borde del container*/
     min-height: 100vh;
     display: flex;
     flex-direction: column;
